@@ -11,7 +11,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #549b9b;
+    background: rgb(229, 247, 245);
 }
 .box{
     position: relative;
